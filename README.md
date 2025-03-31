@@ -1,16 +1,18 @@
-# weather_app
+**🌦 Whether or Not | Smart Weather Prediction App**
 
-A new Flutter project.
+Whether or Not is an intuitive weather prediction app designed to provide real-time forecasts, alerts, and climate insights. Whether you’re planning your day or preparing for extreme conditions, this app ensures you’re always one step ahead.
 
-## Getting Started
+**✨ Key Features**
+	•	☀️ Real-Time Weather Updates – Accurate temperature, humidity, and precipitation forecasts.
+	•	🌍 Location-Based Predictions – Get weather data tailored to your current or chosen location.
+	•	⚠️ Severe Weather Alerts – Instant notifications for storms, heatwaves, and other extreme conditions.
+	•	📅 Weekly & Hourly Forecasts – Plan ahead with detailed weather insights.
+	•	📊 AI-Powered Predictions – Smart algorithms enhance forecast accuracy.
 
-This project is a starting point for a Flutter application.
+**🛠 Tech Stack**
+	•	Frontend: Flutter
+	•	Backend: Node.js
+	•	API Integration: OpenWeatherMap / WeatherAPI
+	•	Database: PostgreSQL / Firebase
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🌦 With Whether or Not, unpredictable weather becomes a thing of the past—stay informed, stay prepared!
